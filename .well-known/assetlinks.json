@@ -4,7 +4,10 @@
     "target": {
       "namespace": "android_app",
       "package_name": "com.ninthhennepin.kitchen",
-      "sha256_cert_fingerprints": ["66:71:72:A8:D8:31:0A:DA:D3:77:F4:90:18:2E:40:00:F0:91:91:DE:D8:DA:CD:E0:B3:3A:22:2E:3D:2A:1F:3D"]
+      "sha256_cert_fingerprints": [
+        "66:71:72:A8:D8:31:0A:DA:D3:77:F4:90:18:2E:40:00:F0:91:91:DE:D8:DA:CD:E0:B3:3A:22:2E:3D:2A:1F:3D",
+        "87:44:C5:A5:E8:B2:54:9F:97:0F:37:B6:47:F7:30:16:B1:87:46:F5:1B:80:45:56:64:94:A2:CE:07:37:23:A4"
+      ]
     }
   },
   {
@@ -12,7 +15,9 @@
     "target": {
       "namespace": "android_app",
       "package_name": "com.ninthhennepin.kitchen.debug",
-      "sha256_cert_fingerprints": ["66:71:72:A8:D8:31:0A:DA:D3:77:F4:90:18:2E:40:00:F0:91:91:DE:D8:DA:CD:E0:B3:3A:22:2E:3D:2A:1F:3D"]
+      "sha256_cert_fingerprints": [
+        "66:71:72:A8:D8:31:0A:DA:D3:77:F4:90:18:2E:40:00:F0:91:91:DE:D8:DA:CD:E0:B3:3A:22:2E:3D:2A:1F:3D"
+      ]
     }
   }
 ]
